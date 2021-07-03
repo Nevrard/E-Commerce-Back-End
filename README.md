@@ -38,6 +38,12 @@ Dependencies are:
 To run the apllication ,type "node server.js" in your terminal
 Then Using Insomnia ,open the defined  routes  and perform the actions above mentioned in the general information section
 
+## Screenshots
+
+Pre-defined command in insomnia:
+
+![image](https://user-images.githubusercontent.com/77184762/124365477-5b0e7f00-dc16-11eb-8cc0-f42b0025f2f0.png)
+
 
 ## Deployment
 
